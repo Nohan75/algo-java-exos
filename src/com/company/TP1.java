@@ -7,7 +7,7 @@ public class TP1 {
 
         int[] scores = {25, 56, 93, 37, 24, 1, 78};
         float total = 0f;
-        
+
 
         for(int i = 0; i < scores.length; i++){
             System.out.println(scores[i]);
